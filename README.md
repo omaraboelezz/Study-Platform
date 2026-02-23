@@ -1,2 +1,2 @@
 # Study-Platform
-Study Platform for techer 
+Study Platform for teacher 
